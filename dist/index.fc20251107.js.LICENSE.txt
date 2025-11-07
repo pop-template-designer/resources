@@ -1,0 +1,9 @@
+/*!
+ * Vue.js v2.7.16
+ * (c) 2014-2023 Evan You
+ * Released under the MIT License.
+ */
+
+/*! For license information please see index.umd.js.LICENSE.txt */
+
+/*! js-cookie v3.0.5 | MIT */
